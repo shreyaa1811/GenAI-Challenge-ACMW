@@ -1,0 +1,14 @@
+# Ignore folders
+node_modules/
+venv/
+__pycache__/
+data/
+logs/
+
+# Ignore files
+.env
+*.log
+*.csv
+
+# Ignore specific folder path
+AI FASHION DESIGNER/
