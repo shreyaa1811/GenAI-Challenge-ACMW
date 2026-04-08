@@ -90,12 +90,6 @@ To open these notebooks in Google Colab:
 !pip install -r requirements.txt
 ```
 
-## Direct Notebook Links
-
-- [Challenge 1 — Image Repair + Style Transformation](Challenge_1/Challenge 1 - Team S2.ipynb)
-- [Challenge 2 — AI Fashion Designer (Digital Garden)](Challenge_2/Challenge 2 - Team S2.ipynb)
-- [Challenge 3 — Poster Design & Refinement](Challenge_3/Challenge 3 - Team S2.ipynb)
-
 ## Setup
 
 From the repository root, install dependencies with:
